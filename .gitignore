@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/anime/anime
+/black metal/black metal
+/classical/classical
+/disco/disco
+/country/country
+/edm/edm
+/jazz/jazz
+/pop/pop
+/rap/rap
+/reggae/reggae
+/.vs
+/my_data_RESNET50.csv
+/my_data.csv
+/my_data_mini.csv
+/my_data_RESNET50_2.csv
+/catboost_info
+/models

@@ -1,0 +1,7 @@
+matplotlib
+pillow
+torch
+transformers 
+faiss-cpu
+scikit-learn
+torchvision
