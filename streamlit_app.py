@@ -93,5 +93,13 @@ if result:
     st.write('result')
     st.write(preds)
 
-
+# ### предсказание нейросетью
+# # model_net = joblib.load("model_resnet18.pt")
+# learn.load('resnet18_fit_all')
+# preds_net = learn.predict(image_test)
+# result_net = st.button('Определить жанр при помощи нейросети')
+# if result_net:
+#     x = preds
+#     st.write('Предсказание жанра нейросетью')
+#     st.write(preds_net)
 
